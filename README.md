@@ -4,7 +4,7 @@
 
 🎓 I’m a master's student in Physics at [Scuola Normale Superiore (SNS)](https://www.sns.it/en).
 
-🔭 I’m currently working on my thesis (in Quantum Information and Quantum Thermodynamics)
+🔭 I’m currently working on my thesis in Quantum Information and Quantum Thermodynamics.
 
 👀 I’m interested in Machine Learning and Data Science.
 
