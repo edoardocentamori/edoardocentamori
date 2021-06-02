@@ -8,7 +8,7 @@
 
 👀 I’m interested in Machine Learning and Data Science.
 
-📫 How to reach me: https://www.linkedin.com/in/edoardo-maria-centamori-985366138/
+📫 Reach me on [linkedin](https://www.linkedin.com/in/edoardo-maria-centamori-985366138/)
 
 <!--
 **edoardocentamori/edoardocentamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
